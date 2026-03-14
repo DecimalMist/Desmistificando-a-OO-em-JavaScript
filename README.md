@@ -11,3 +11,8 @@ Desafio 2
 A diferença de uma funcáo construtora e uma fabrica é que a construtora cria instancias para objetos de forma mais completa utilizando o NEW, enquanto a fabrica serve de forma mais simples e direta sem a criaçao de um novo objeto
 
 As vantagens de se usar uma função fabrica é que ela é mais rapida para codigos pequenos e que os objetos sejam mais simples assim deixando o codigo mais rapido do que com Contructors.
+
+Desafio 3 
+Get -- Serve para Exibir/Retornar um metodo ou valor. Set -- Serve para alterar os valores do metodo necessario
+
+O seal permite a alteraçao de valores, mas nao deixa a troca de estrutura. Como se ele estivesse selando a estrutura mas nao os dados, enquanto o freeze congela tanto a estrutura do objeto como seus valores
