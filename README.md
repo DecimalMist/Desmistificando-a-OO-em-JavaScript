@@ -8,3 +8,6 @@ O node.js permite a alteraçao de um objeto devido que eu nao estou trocando a c
 
 
 Desafio 2 
+A diferença de uma funcáo construtora e uma fabrica é que a construtora cria instancias para objetos de forma mais completa utilizando o NEW, enquanto a fabrica serve de forma mais simples e direta sem a criaçao de um novo objeto
+
+As vantagens de se usar uma função fabrica é que ela é mais rapida para codigos pequenos e que os objetos sejam mais simples assim deixando o codigo mais rapido do que com Contructors.
