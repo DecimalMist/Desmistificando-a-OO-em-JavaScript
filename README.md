@@ -16,3 +16,13 @@ Desafio 3
 Get -- Serve para Exibir/Retornar um metodo ou valor. Set -- Serve para alterar os valores do metodo necessario
 
 O seal permite a alteraçao de valores, mas nao deixa a troca de estrutura. Como se ele estivesse selando a estrutura mas nao os dados, enquanto o freeze congela tanto a estrutura do objeto como seus valores
+
+Desafio 4 
+
+Essa propriedade __proto__ serve como um apontamento para o prototipo de um objeto do qual ela herda suas propriedades e metodos
+
+Desafio 5 
+
+Em Json as chaves são duplas, não permite funções, comentários ou variáveis e serve apenas para armazenamento e troca de dados
+
+Isso acontece porque Json é feito para troca de dados e não troca de codigos e nas APIs o server somente envia dados 
